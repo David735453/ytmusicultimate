@@ -11,7 +11,7 @@ on:
 
       display_name:
         description: "App Name (Optional)"
-        default: "YouTube Music"
+        default: "YT Musik++"
         required: true
         type: string
 
